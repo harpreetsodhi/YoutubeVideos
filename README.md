@@ -1,4 +1,4 @@
-# Deployed on GitHub Pages [https://harpreetsodhi.github.io/videos/](https://harpreetsodhi.github.io/videos/)
+# Deployed on GitHub Pages [https://harpreetsodhi.github.io/YoutubeVideos/](https://harpreetsodhi.github.io/YoutubeVideos/)
 
 # Getting Started with Create React App
 
